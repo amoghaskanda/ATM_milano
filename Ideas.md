@@ -9,8 +9,7 @@
 ✔| This is completed| Completed
 ❎| This is incomplete| -
 ---
-## To edit the file click on the ✏️ on the top right corner
-and start typing below: 
+## To edit the file click on the ✏️ on the top right corner and start typing below: 
 -
 -
 ---
